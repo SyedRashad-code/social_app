@@ -6,4 +6,5 @@ both are developed by google
 
 here are some screenshot of the application 
 
-<img src="https://github.com/SyedRashad-code/social_app/assets/85114985/d4aa5787-2664-40f5-8b50-0500abe727a4" width="50" height="100">
+<img src="https://github.com/SyedRashad-code/social_app/assets/85114985/d4aa5787-2664-40f5-8b50-0500abe727a4" width="100" height="200
+  ">
